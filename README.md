@@ -35,3 +35,6 @@ Features continue to be added to EBS Password Manager.
 4-) You can go to Linkedin Password Reset area with one click.
 
 5-) With one click, Gamil can go to the Password Reset area.
+
+<img src="1.png" alt="twitter" style="max-width: 100%;">
+<img src="2.png" alt="twitter" style="max-width: 100%;">
