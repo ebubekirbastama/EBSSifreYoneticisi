@@ -20,3 +20,18 @@ Sağ Tık Menüsü ile tek tıklama ile Linkedin Sıfırlama Alanına Gidebilirs
 Sağ Tık Menüsü ile tek tıklama ile Gmail Sıfırlama Alanına Gidebilirsiniz.
 </li>  
 </ul>
+
+
+Features continue to be added to EBS Password Manager.
+
+---------------------------------------------------------------- ---------------
+
+1-) Sha1 Encrypts Your Raw Password (2 Times)
+
+2-) You can go to Facebook Password Reset area with one click.
+
+3-) You can go to the Twitter Password Reset area with one click.
+
+4-) You can go to Linkedin Password Reset area with one click.
+
+5-) With one click, Gamil can go to the Password Reset area.
